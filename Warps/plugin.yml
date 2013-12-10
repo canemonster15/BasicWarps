@@ -1,0 +1,17 @@
+name: BasicWarps
+author: ItsCane
+version: 1.2
+main: com.canemonster15.warps.Main
+commands:
+   setwarp:
+     description: Sets a warp!
+   tp:
+     description: Teleports you to a player.
+   tph:
+     description: Teleports a player to you.
+   warp:
+     description: Teleports you to a warp.
+   sethome:
+     description: Sets a home.
+   home:
+     description: Teleports you to your home.
